@@ -1,0 +1,141 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+/*header start*/
+.header{
+    min-height: 100px;
+    background-color:#E6E6E6;
+    width: 100%;
+    overflow: hidden;
+    
+}
+.header-top{
+    min-height: 70px;
+    background-color:darkorange;
+    width: 100%;
+    
+}
+.logo{
+    float: left;
+    min-height: 50px;
+    width: 20%;
+    background-color:darkolivegreen;
+    margin: 10px 70px;
+}
+.nav {
+    min-height: 50px;
+    width: 25%;
+    background-color: bisque;
+    margin: 10px 50px;
+    float: left;
+    
+    
+}
+.right{
+    
+    min-height: 50px;
+    width: 20%;
+    background-color: aqua;
+    float: right;
+    margin: 10px 20px;
+}
+
+/*header end*/
+/*bottom-side start*/
+
+.bottom-side{
+    min-height: 700px;
+    background-color: aliceblue;
+    width: 100%;
+    overflow: hidden;
+}
+.slider{
+    min-height: 170px;
+    
+    width: 80%;
+    margin: 20px auto;
+    
+}
+.part1{
+    min-height: 170px;
+    width: 50%;
+    background-color: aqua;
+    float:left;
+    
+}
+.part2{
+    min-height: 170px;
+    width: 50%;
+    background-color:darkgray;
+    float: left;
+    
+}
+.service{
+    min-height: 300px;
+    width: 100%;
+    background-color: #E6E6E6;
+    overflow: hidden;
+    
+}
+.service-right{
+    min-height: 270px;
+    width: 40%;
+    background-color: aliceblue;
+    float: left;
+    margin:20px 30px 20px 60px;
+    
+}
+.footer{
+    min-height: 200px;
+    
+    width: 100%;
+    
+    
+}
+.footer-bottom{
+    min-height: 120px;
+    width: 100%;
+    background-color: darkorange;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    
+}
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*bottom-side start*/
